@@ -1,0 +1,3 @@
+[submodule "srcModule"]
+	path = srcModule
+	url = https://github.com/CowKnife/srcModule.git
